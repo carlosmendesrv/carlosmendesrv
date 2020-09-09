@@ -10,6 +10,7 @@ My name and **Carlos Mendes**, I am passionate about technology, always looking 
  - Web Development [PHP, Laravel]
  - Docker
  - API
+ - Agile methodology ( Scrum )
 
 ## 💬  Languages(Learning)
 
